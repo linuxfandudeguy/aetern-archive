@@ -142,7 +142,7 @@ const server = http.createServer(async (req, res) => {
 
                 // Navbar code with logo
                 res.write(`<nav>
-                    <h1><a href="#" style="position: absolute; top: 10px; left: 10px;">
+                    <h1><a href="https://github.com/linuxfandudeguy/aetern-archive" style="position: absolute; top: 10px; left: 10px;">
                         <img src="/assets/images/aetern-removebg-preview.png" alt="Aetern Logo" class="logo">
                     </a></h1>
                 </nav>`);
