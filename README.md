@@ -14,7 +14,7 @@
 
 ## About
 
-This repository serves as an archive for various assets sourced from different places and is meant to preserve obscure/ancient media
+This repository serves as an archive for various assets sourced from different places and is meant to preserve obscure/ancient media.
 
 ## Usage
 
