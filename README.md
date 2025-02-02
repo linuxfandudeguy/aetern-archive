@@ -1,4 +1,4 @@
 
 <div align="center>
-![Image Description](public/assets/images/aetern-removebg-preview.png)
+<img src="public/assets/images/aetern-removebg-preview.png" alt="Image Description">
   </div>
