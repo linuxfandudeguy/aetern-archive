@@ -32,17 +32,7 @@ We welcome contributions! If you would like to contribute to this archive, pleas
 
 ## Credits for tools used
 
-        <p style="margin: 0;">Powered by:</p>
-        <div style="display: flex; justify-content: center; gap: 15px; align-items: center; flex-wrap: wrap;">
-            <a href="https://github.com/kognise/water.css" target="_blank" style="color: white; text-decoration: none; display: flex; align-items: center; gap: 6px; font-size: 14px;">
-                <img src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-icon.svg" alt="Water.css Logo" style="width: 32px; height: 32px;">
-                <span>Water.css</span>
-            </a>
-            <a href="https://github.com/twbs/icons" target="_blank" style="color: white; text-decoration: none; display: flex; align-items: center; gap: 6px; font-size: 14px;">
-                <img src="https://img.icons8.com/color-glass/48/bootstrap.png" alt="Bootstrap Icons Logo" style="width: 32px; height: 32px;">
-                <span>Bootstrap Icons</span>
-            </a>
-
+<img alt="svgImg" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciICB2aWV3Qm94PSIwIDAgNDggNDgiIHdpZHRoPSI0OHB4IiBoZWlnaHQ9IjQ4cHgiIGJhc2VQcm9maWxlPSJiYXNpYyI+PHBhdGggZmlsbD0iIzZjMTlmZiIgZD0iTTYuMzkxLDEwLjY3MWMtMC4wODUtMi40NDgsMS44MjItNC43MDYsNC40MDEtNC43MDZoMjYuNDJjMi41NzgsMCw0LjQ4NiwyLjI1OCw0LjQwMSw0LjcwNgljLTAuMDgyLDIuMzUyLDAuMDI0LDUuMzk4LDAuNzkxLDcuODgyYzAuNzY5LDIuNDkyLDIuMDY2LDQuMDY3LDQuMTksNC4yNjl2Mi4yOTVjLTIuMTI0LDAuMjAyLTMuNDIxLDEuNzc3LTQuMTksNC4yNjkJYy0wLjc2NywyLjQ4NC0wLjg3Myw1LjUzLTAuNzkxLDcuODgyYzAuMDg1LDIuNDQ4LTEuODIyLDQuNzA2LTQuNDAxLDQuNzA2aC0yNi40MmMtMi41NzgsMC00LjQ4Ni0yLjI1OC00LjQtNC43MDYJYzAuMDgyLTIuMzUyLTAuMDI1LTUuMzk4LTAuNzkxLTcuODgyYy0wLjc2OS0yLjQ5Mi0yLjA2OS00LjA2Ny00LjE5NC00LjI2OXYtMi4yOTVjMi4xMjQtMC4yMDIsMy40MjUtMS43NzcsNC4xOTQtNC4yNjkJQzYuMzY3LDE2LjA3LDYuNDczLDEzLjAyMyw2LjM5MSwxMC42NzF6Ii8+PGxpbmVhckdyYWRpZW50IGlkPSJJcy1FR2F4S2NjMENpYzlRTXF5ekdhIiB4MT0iMTcuODQ2IiB4Mj0iMjcuMDc4IiB5MT0iLTE0Ny41NDEiIHkyPSItMTYzLjE1MyIgZ3JhZGllbnRUcmFuc2Zvcm09Im1hdHJpeCgxIDAgMCAtMSAwIC0xMzIpIiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSI+PHN0b3Agb2Zmc2V0PSIwIiBzdG9wLWNvbG9yPSIjZmZmIi8+PHN0b3Agb2Zmc2V0PSIxIiBzdG9wLWNvbG9yPSIjZjFlNWZjIi8+PC9saW5lYXJHcmFkaWVudD48cGF0aCBmaWxsPSJ1cmwoI0lzLUVHYXhLY2MwQ2ljOVFNcXl6R2EpIiBkPSJNMjUuMDQyLDM0LjAxNmM0LjM2NiwwLDYuOTk3LTIuMTM4LDYuOTk3LTUuNjY0YzAtMi42NjUtMS44NzctNC41OTUtNC42NjUtNC45di0wLjExMQljMi4wNDgtMC4zMzMsMy42NTUtMi4yMzUsMy42NTUtNC4zNTljMC0zLjAyNi0yLjM4OS00Ljk5Ny02LjAzLTQuOTk3aC04LjE5MnYyMC4wMzFIMjUuMDQyeiBNMTkuOTk0LDE2LjUyNWg0LjIzOAljMi4zMDQsMCwzLjYxMiwxLjAyNywzLjYxMiwyLjg4N2MwLDEuOTg1LTEuNTIyLDMuMDk2LTQuMjgxLDMuMDk2aC0zLjU3VjE2LjUyNXogTTE5Ljk5NCwzMS40NzV2LTYuNTk0aDQuMjEJYzMuMDE1LDAsNC41NzksMS4xMSw0LjU3OSwzLjI3NmMwLDIuMTY1LTEuNTIyLDMuMzE4LTQuMzk0LDMuMzE4SDE5Ljk5NHoiLz48L3N2Zz4="/>
 ## License
 
 This project is licensed under the MIT License. See the `LICENSE` file for more details.
