@@ -10,6 +10,7 @@
 - [About](#about)
 - [Usage](#usage)
 - [Contributing](#contributing)
+- [Credits](#credits)
 - [License](#license)
 
 ## About
