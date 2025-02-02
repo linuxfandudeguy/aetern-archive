@@ -30,9 +30,11 @@ We welcome contributions! If you would like to contribute to this archive, pleas
 5. Push to the branch (`git push origin feature-branch`)
 6. Open a pull request
 
-## Credits for tools used
-![netlifyapp_watercss-icon](https://github.com/user-attachments/assets/f411d5db-3193-4b94-9ca5-b1a96ec20a95) Water.css
-![img icons8](https://github.com/user-attachments/assets/9861a926-1123-4b16-80e1-3fe85e74fdf8) Bootstrap Icons
+## Credits
+
+> ![netlifyapp_watercss-icon](https://github.com/user-attachments/assets/f411d5db-3193-4b94-9ca5-b1a96ec20a95) [**Water.css**](https://github.com/kognise/water.css)
+ 
+> ![img icons8](https://github.com/user-attachments/assets/9861a926-1123-4b16-80e1-3fe85e74fdf8)  [**Bootstrap Icons**](https://github.com/twbs/icons)
 
 ## License
 
